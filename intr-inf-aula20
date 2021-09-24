@@ -1,3 +1,4 @@
 Ip Privado -> 192.168.0.9 | classe C
 Máscara -> 255.255.255.0
 Ip Publico | Classe B
+Um endereço MAC no padrão Ethernet é constituído por 6 bytes, sendo os 3 primeiros conhecidos como endereço OUI (Organizationally Unique Identifier), que indicam o fabricante (atribuído pelo IEEE), e os 3 últimos são controlados pelo fabricante, identificando de forma exclusiva cada interface fabricada.
